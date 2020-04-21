@@ -1,0 +1,14 @@
+body {
+	font-family: monospace;
+}
+
+h1 {
+	font-size: 0.75rem;
+	padding: 0.5rem 1rem;
+	position: absolute;
+	top: 0;
+	right: 0;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
